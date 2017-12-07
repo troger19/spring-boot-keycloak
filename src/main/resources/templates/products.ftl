@@ -7,5 +7,6 @@
 </#list>
 </ul>
 <br>
+${token}
 <a href="/logout">Logout</a>
 </html>
